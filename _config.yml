@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : "Can I finish"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Hyeong-joon"
-description              : "100% 문돌이의 "
+name                     : "Hyeon-joon"
+description              : "Hyeong-joon blog"
 url                      : "https://Hyeongj00n.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,10 +102,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Hyeong-joon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Can I be a **amazing** person."
+  location         : "Korea"
   email            :
   links:
     - label: "Email"
