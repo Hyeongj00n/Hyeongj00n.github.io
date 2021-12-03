@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hyeong-joon"
+title                    : "Can I finish"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "우형준"
-description              : "모든 과제가 고비였지만, 이번이 가장 큰 "
+name                     : "Hyeong-joon"
+description              : ""
 url                      : "https://Hyeongj00n.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
